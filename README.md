@@ -54,3 +54,8 @@ background: url('../../static/images/wallpaper3.jpg');
 
 ### GraphQL giving an error
 Make sure to restart your local environment by doing **Control + C** in the Terminal, and then `gatsby develop`.
+
+### My React site with completed
+- [x] URL : [ https://nila.netlify.com/ ]
+
+  
